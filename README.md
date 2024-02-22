@@ -2,5 +2,5 @@
 
 - meu nome é felipe
 
-- estou estudando na [Alura](https://www.alura.pr.gov.br)
+- estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo nas linguagens de programação
